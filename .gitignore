@@ -1,0 +1,23 @@
+# Virtual environments
+.env/
+venv/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
